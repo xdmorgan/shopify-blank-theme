@@ -1,0 +1,4 @@
+development:
+  password: APP_API_KEY_PASSWORD
+  theme_id: THEME_ID
+  store: STORE_URL
